@@ -26,3 +26,7 @@ git clone
 (Alternatively, for private collaboration: or contact `dttanner76@gmail.com` to be added as
 a contributor.)
 
+2. **Open the project in the Epic Games Launcher:**
+* Launch Unreal Engine 5.4.4.
+* Click "Open" or "Add project from disk".
+* Navigate to the cloned `MonsterMashup` folder and select it.
