@@ -1,8 +1,7 @@
 # MonsterMashup
 Monster Rythm Mash Game
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://
-opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 📖 About The Project
 This repository contains the Unreal Engine 5 game project **Batoven**.
