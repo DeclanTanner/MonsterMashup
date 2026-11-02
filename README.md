@@ -13,9 +13,16 @@ Key features include note charts synced to music with FMOD timeline markers, tim
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing.
 
 ### Prerequisites
-* **Unity Hub** installed.
-* **Unity Editor** ([Specify Your Unity Version, e.g., `6.6.6 LTS`] or newer). You
-can install it via Unity Hub.
+* **Epic Games Launcher** installed.
+* **Unreal Engine 5.4.4** You can install it via the Epic Games Launcher.
 * **Git** (for cloning the repository).
-* An IDE for C# (like **Visual Studio** or **Visual Studio Code** with Unity
-integration).
+
+### Installation
+1. **Clone the repository:**
+```sh
+git clone
+[https://github.com/DeclanTanner/MonsterMashup.git]
+```
+(Alternatively, for private collaboration: or contact `dttanner76@gmail.com` to be added as
+a contributor.)
+
