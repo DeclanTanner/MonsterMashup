@@ -41,6 +41,19 @@ the first time.
 * (`Content/Mash/Levels/MainMenu.umap`) in the Content Browser and double-click it to open.
 
 ---
+## 📖 Contributing
+The team is open to contributions and feedback.
+If you have a suggestion that would make this better, please fork the repo and
+create a pull request. You can also simply open an issue with the tag
+"enhancement".
+Don't forget to give the project a star! Thanks again!
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+---
 ## 📖 Acknowledgements
 * This project is associated with the [Griffith Film School](https://www.griffith.edu.au/arts-education-law/griffith-film-school) - [Bachelor of Games Design and Production (https://www.griffith.edu.au/study/degrees/bachelor-of-game-design-and-production-1697)
 * Special thanks to [Dr Justin Carter](https://experts.griffith.edu.au/37511-justin-carter), [Dr Zac Fitz-Walter](https://experts.griffith.edu.au/35044-zac-fitzwalter),
