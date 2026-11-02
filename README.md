@@ -41,3 +41,7 @@ the first time.
 * (`Content/Mash/Levels/MainMenu.umap`) in the Content Browser and double-click it to open.
 
 ---
+## 📖 Acknowledgements
+* This project is associated with the [Griffith Film School](https://www.griffith.edu.au/arts-education-law/griffith-film-school) - [Bachelor of Games Design and Production (https://www.griffith.edu.au/study/degrees/bachelor-of-game-design-and-production-1697)
+* Special thanks to [Dr Justin Carter](https://experts.griffith.edu.au/37511-justin-carter), [Dr Zac Fitz-Walter](https://experts.griffith.edu.au/35044-zac-fitzwalter),
+* [Dr Josh Hall](https://experts.griffith.edu.au/41263-joshua-hall), [Henry Sun](https://www.linkedin.com/in/henrysunportfolio/)
