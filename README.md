@@ -39,7 +39,14 @@ the first time.
 4. **Open the main scene:**
 * Once the editor is open, locate the main scene file
 * (`Content/Mash/Levels/MainMenu.umap`) in the Content Browser and double-click it to open.
-
+---
+## Usage
+After installation and opening the project in Unreal:
+Press the Play button in the Unreal Editor to run the game, typically starting from the `MainMenu.umap` level.
+Key level files include:
+* `Content/Mash/MainMenu.umap`: Main menu and start screen.
+* `Content/Mash/RythmBase.umap`: Main gameplay scene.
+* `Content/Mash/SongSelect.umap`: Displays the song list.
 ---
 ## 📖 Contributing
 The team is open to contributions and feedback.
@@ -52,7 +59,6 @@ Don't forget to give the project a star! Thanks again!
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
 ---
 ## 📖 Acknowledgements
 * This project is associated with the [Griffith Film School](https://www.griffith.edu.au/arts-education-law/griffith-film-school) - [Bachelor of Games Design and Production (https://www.griffith.edu.au/study/degrees/bachelor-of-game-design-and-production-1697)
