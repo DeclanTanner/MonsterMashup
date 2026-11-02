@@ -7,7 +7,15 @@ opensource.org/licenses/MIT)
 ## 📖 About The Project
 This repository contains the Unreal Engine 5 game project **Batoven**.
 Key features include note charts synced to music with FMOD timeline markers, timing-based accuracy, combos and end-of-song ranks, tap and hold notes across two lanes, animated Paper2D enemies, menus and a looping song select. This project aims to deliver a tactile and engaging rhythm experience.
+
 ---
 ## 📖 Getting Started
-Follow these instructions to get a copy of the project up and running on your local
-machine for development and testing.
+Follow these instructions to get a copy of the project up and running on your local machine for development and testing.
+
+### Prerequisites
+* **Unity Hub** installed.
+* **Unity Editor** ([Specify Your Unity Version, e.g., `6.6.6 LTS`] or newer). You
+can install it via Unity Hub.
+* **Git** (for cloning the repository).
+* An IDE for C# (like **Visual Studio** or **Visual Studio Code** with Unity
+integration).
