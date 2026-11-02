@@ -30,3 +30,15 @@ a contributor.)
 * Launch Unreal Engine 5.4.4.
 * Click "Open" or "Add project from disk".
 * Navigate to the cloned `MonsterMashup` folder and select it.
+
+3. **Open the project in the Unreal Engine 5.4.4 Editor:**
+* Once added, click on the project name in UE5.4.4 to open it in the Unreal
+Editor.
+* Unreal will import assets and compile scripts. This might take a few minutes
+the first time.
+
+4. **Open the main scene:**
+* Once the editor is open, locate the main scene file
+* (`Content/Mash/Levels/MainMenu.umap`) in the Content Browser and double-click it to open.
+
+---
